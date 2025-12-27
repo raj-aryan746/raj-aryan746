@@ -1,9 +1,12 @@
 ## Hi there 👋
-I am 😄-Design Engineer and 🤔-Full Stack Developer based in India.
-I Design and build wthatever I can imagine thing.
-My main tech stack is FrontEnd-(React, JavaScript, Tailwind, GSAP), Backend(Node, MongoDB, Mongoose, Express).
-My favorite tools are VSCode, Postman, Atlas, Figma
 
+I am 😄-Design Engineer and 🤔-Full Stack Developer based in India.
+
+I Design and build wthatever I can imagine thing.
+
+My main tech stack is FrontEnd-(React, JavaScript, Tailwind, GSAP), Backend(Node, MongoDB, Mongoose, Express).
+
+My favorite tools are VSCode, Postman, Atlas, Figma
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
