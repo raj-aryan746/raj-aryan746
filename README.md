@@ -1,9 +1,9 @@
 ## Hi there 👋
+I am 😄-Design Engineer and 🤔-Full Stack Developer based in India.
+I Design and build wthatever I can imagine thing.
+My main tech stack is FrontEnd-(React, JavaScript, Tailwind, GSAP), Backend(Node, MongoDB, Mongoose, Express).
+My favorite tools are VSCode, Postman, Atlas, Figma
 
-
-**raj-aryan746/raj-aryan746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
